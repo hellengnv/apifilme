@@ -22,4 +22,4 @@ Se você tiver alguma dúvida ou sugestão, entre em contato.
 https://apifilme.vercel.app/
 
 ## Imagens do Projeto: 
-![Imagem do projeto](https://imgur.com/a/4O1Z0uZ)
+![Imagem do projeto](https://i.imgur.com/3Go0kVR.png)
